@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jagsahil
 - 👀 I’m interested in data analytics & ML 
-- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on data analytics & ML related projects
 - 📫 How to reach me -jagsahil@gmail.com
 
